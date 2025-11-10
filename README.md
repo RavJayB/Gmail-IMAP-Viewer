@@ -244,4 +244,4 @@ This project is licensed under the MIT License.
    - Check Node.js version compatibility
    - Verify all dependencies are installed
 
-For more help, please check the issues section or create a new issue.
+For more help, Contact me through my portfolio : [ravindubandara.dev](https://www.ravindubandara.dev) 
